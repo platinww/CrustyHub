@@ -1,1 +1,26 @@
-
+[
+  {
+    "name": "Escape Tsunami For Brainrots",
+    "url": "https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/Escape-Tsunami-For-Brainrots/Escape-Tsunami-For-Brainrots.lua",
+    "game": "Escape Tsunami For Brainrots",
+    "description": "God Mode, Instant Delivery, Auto Farm, Auto Collect Money, Ragdoll Everyone and much more."
+  },
+  {
+    "name": "Steal A Brainrot",
+    "url": "https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/Steal-A-Brainrot/steal-a-brainrot.lua",
+    "game": "Steal A Brainrot",
+    "description": "Auto Collect, Auto Laser Cape, Instant Steal, DeSync, Auto Steal, Instant Grab, Half TP and much more."
+  },
+  {
+    "name": "Ink Game",
+    "url": "https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/ink-game/ink-game.lua",
+    "game": "Ink Game",
+    "description": "Help Players, Troll Players, Auto Complete, Dalgona, Glass Bridge, ESP Glasses and much more."
+  },
+  {
+    "name": "Wally West",
+    "url": "https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/universal/WallyWest.lua",
+    "game": "All Games",
+    "description": "Become Wally West in any game."
+  }
+]
